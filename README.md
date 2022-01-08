@@ -8,7 +8,7 @@ Our storyline is that the 9th grade math and reading grades have been tampered w
 # Results
 ## District Summary
 ### Original
-![old_district_summary](./Resources/Original_District_Summary.png)
+![old_district_summary](./Resources/Original_District_Summary.PNG)
 ### Updated
 ![new_district_summary](./Resources/New_District_Summary.PNG)
 
